@@ -1,6 +1,6 @@
 # FDA  Submission
 
-**Your Name: Alexandru Korotcov**
+**Name: Alexandru Korotcov**
 
 **Name of your Device: 2D Chest X-ray Pneumonia Detection Assistant (X-PDA)**
 
